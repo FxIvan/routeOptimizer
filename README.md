@@ -74,3 +74,13 @@ Puedes implementar este proyecto en:
 2. Implementa el backend en el lenguaje de tu preferencia.
 3. Escribe pruebas unitarias para garantizar la corrección de tu solución.
 4. Documenta cómo ejecutar y probar tu proyecto.
+
+
+### Package of go
+- go get github.com/spf13/viper
+- go get -u gorm.io/gorm
+- go get -u gorm.io/driver/sqlite
+- poner esto en el go.mod gorm.io/driver/postgres
+- go get github.com/labstack/echo/v4/middleware
+
+***https://medium.com/@rayato159/how-to-implement-clean-architecture-in-golang-en-f50d66378ebf***
